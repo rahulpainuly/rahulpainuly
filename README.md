@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulpainuly
-- 👀 I’m interested in Data Engineering
+- 👀 I’m a Data Engineering.
 - 🌱 I’m currently working Saas Data
 - 📫 How to reach me : rahulpainulys@gmail.com
 
